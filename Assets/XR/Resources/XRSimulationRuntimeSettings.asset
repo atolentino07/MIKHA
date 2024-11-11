@@ -55,7 +55,7 @@ MonoBehaviour:
     m_NormalToleranceAngle: 15
     m_VoxelSize: 0.1
   m_TrackedImageDiscoveryParams:
-    m_TrackingUpdateInterval: 0.008333334
+    m_TrackingUpdateInterval: 0.09
   m_EnvironmentProbeDiscoveryParams:
     m_MinUpdateTime: 0.2
     m_MaxDiscoveryDistance: 3
