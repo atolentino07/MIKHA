@@ -726,7 +726,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Shark
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 9fb32ff7df92bd243911f3dae4f15581, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5130781917315532022
       m_GuidHigh: 12929246610932676770
