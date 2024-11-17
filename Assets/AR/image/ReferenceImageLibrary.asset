@@ -21,8 +21,8 @@ MonoBehaviour:
       m_GuidLow: 5555367029686631794
       m_GuidHigh: 11590684706568586652
     m_SerializedTextureGuid:
-      m_GuidLow: 12971644681184548567
-      m_GuidHigh: 8682013298304435320
+      m_GuidLow: 1275791014612788593
+      m_GuidHigh: 17010256056357824826
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 1
@@ -31,8 +31,8 @@ MonoBehaviour:
       m_GuidLow: 4908101810590760417
       m_GuidHigh: 3344254087843205521
     m_SerializedTextureGuid:
-      m_GuidLow: 17479734022405257122
-      m_GuidHigh: 3272148245120779915
+      m_GuidLow: 16214208067716678771
+      m_GuidHigh: 10982890944129055816
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 2
@@ -121,8 +121,8 @@ MonoBehaviour:
       m_GuidLow: 4861844562063282572
       m_GuidHigh: 16180974541382179509
     m_SerializedTextureGuid:
-      m_GuidLow: 18096602122347794799
-      m_GuidHigh: 1113119754147132744
+      m_GuidLow: 17750006502842592432
+      m_GuidHigh: 4101217360088282315
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 11
@@ -141,8 +141,8 @@ MonoBehaviour:
       m_GuidLow: 4716440520680400932
       m_GuidHigh: 2852462047107761837
     m_SerializedTextureGuid:
-      m_GuidLow: 3644755738900776401
-      m_GuidHigh: 6051787617976551129
+      m_GuidLow: 15421652292267735230
+      m_GuidHigh: 13119885125845123259
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 13
@@ -241,8 +241,8 @@ MonoBehaviour:
       m_GuidLow: 5672711135743513903
       m_GuidHigh: 11385468606158772623
     m_SerializedTextureGuid:
-      m_GuidLow: 17628472635811776563
-      m_GuidHigh: 2106036161860663995
+      m_GuidLow: 13286978143620706206
+      m_GuidHigh: 11547997068505766827
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: C
@@ -251,8 +251,8 @@ MonoBehaviour:
       m_GuidLow: 4996140858168502604
       m_GuidHigh: 2506804631797772983
     m_SerializedTextureGuid:
-      m_GuidLow: 5036220714618474954
-      m_GuidHigh: 772284504818017001
+      m_GuidLow: 3329322727925759634
+      m_GuidHigh: 13752128690803101449
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: D
@@ -561,8 +561,8 @@ MonoBehaviour:
       m_GuidLow: 4987256354989914429
       m_GuidHigh: 16765596494182017685
     m_SerializedTextureGuid:
-      m_GuidLow: 3509628867699367279
-      m_GuidHigh: 2001684132977880330
+      m_GuidLow: 11377415366184840572
+      m_GuidHigh: 14605333390815847497
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Monkey
@@ -621,8 +621,8 @@ MonoBehaviour:
       m_GuidLow: 4788824844434068339
       m_GuidHigh: 6954841096840585135
     m_SerializedTextureGuid:
-      m_GuidLow: 6189267128581796391
-      m_GuidHigh: 18274011106211721352
+      m_GuidLow: 4500338424931550217
+      m_GuidHigh: 11846562298320547690
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Bird
@@ -641,8 +641,8 @@ MonoBehaviour:
       m_GuidLow: 5366764382935873578
       m_GuidHigh: 4292443743620644756
     m_SerializedTextureGuid:
-      m_GuidLow: 17299663286026029014
-      m_GuidHigh: 12071975570267619657
+      m_GuidLow: 11444999481766089870
+      m_GuidHigh: 1931089779699295627
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Chicken
@@ -726,7 +726,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Shark
-    m_Texture: {fileID: 2800000, guid: 9fb32ff7df92bd243911f3dae4f15581, type: 3}
+    m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5130781917315532022
       m_GuidHigh: 12929246610932676770
@@ -736,4 +736,24 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Squid
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4656571018411959779
+      m_GuidHigh: 17908832885707858332
+    m_SerializedTextureGuid:
+      m_GuidLow: 10436070635043580040
+      m_GuidHigh: 6715190432697996968
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Penguin
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4741405985802144690
+      m_GuidHigh: 275321276505783463
+    m_SerializedTextureGuid:
+      m_GuidLow: 17921141872851396615
+      m_GuidHigh: 17863352504590192443
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: Pig
     m_Texture: {fileID: 0}
