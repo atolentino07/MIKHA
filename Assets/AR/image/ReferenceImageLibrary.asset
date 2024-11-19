@@ -727,7 +727,7 @@ MonoBehaviour:
       m_GuidHigh: 2426651655497198570
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: a
+    m_Name: A
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 4729340955282108339
@@ -737,7 +737,7 @@ MonoBehaviour:
       m_GuidHigh: 2821374604313994811
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: b
+    m_Name: B
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5532519021905864137
@@ -747,7 +747,7 @@ MonoBehaviour:
       m_GuidHigh: 2106036161860663995
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: c
+    m_Name: C
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5407248419366622035

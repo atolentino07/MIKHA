@@ -803,8 +803,8 @@ MonoBehaviour:
   - {fileID: 5269891984998114070, guid: d5e7281dd553ec3478a3137af677d94a, type: 3}
   - {fileID: 7992339851369303150, guid: 3013da6c6dd9fbe4f902a77c0f5213db, type: 3}
   - {fileID: 1854335250393092052, guid: 21c5265c924e50f448eb49d63d524be3, type: 3}
-  - {fileID: 8694283369641929916, guid: 48153f7793c072341a75c4bcd400ce08, type: 3}
-  - {fileID: 4806711278597082094, guid: 83726d05f0d94a346ba758a7ef43d86c, type: 3}
+  - {fileID: 7379559934639873593, guid: 3665cb91f89dbcd44961ca781452ea2c, type: 3}
+  - {fileID: 2324381214657757899, guid: 4e969408ed419224f80cff4c2fa20665, type: 3}
   - {fileID: 8732659056031761943, guid: 6fb324ebde6b8b442a3bb13a7c0cb0c4, type: 3}
   - {fileID: 5384470208466602457, guid: e8568785c8b61ca4c86d07bfc946b22d, type: 3}
   - {fileID: 3847578727527542148, guid: 2ae177956ca6a0c43a4257d1ffb9b812, type: 3}
@@ -1159,7 +1159,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!64 &1285368286
 MeshCollider:
   m_ObjectHideFlags: 0
