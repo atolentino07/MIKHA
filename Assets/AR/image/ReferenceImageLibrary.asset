@@ -670,26 +670,6 @@ MonoBehaviour:
     m_Name: Orca
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
-      m_GuidLow: 5354513607561366354
-      m_GuidHigh: 255478755601251774
-    m_SerializedTextureGuid:
-      m_GuidLow: 1825109270753466250
-      m_GuidHigh: 10699553163568267146
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: Penguin
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 5553894544361045954
-      m_GuidHigh: 11139420108591037334
-    m_SerializedTextureGuid:
-      m_GuidLow: 17921141872851396615
-      m_GuidHigh: 17863352504590192443
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: Pig
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
       m_GuidLow: 4749210852392648169
       m_GuidHigh: 13054753727431586228
     m_SerializedTextureGuid:
@@ -697,7 +677,7 @@ MonoBehaviour:
       m_GuidHigh: 17194741117720735291
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: Pig 1
+    m_Name: Pig
     m_Texture: {fileID: 0}
   - m_SerializedGuid:
       m_GuidLow: 5337947276263963316
