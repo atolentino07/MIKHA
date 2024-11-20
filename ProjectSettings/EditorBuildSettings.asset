@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 1
-    path: Assets/Scenes/MainButtons/Download.unity
+    path: Assets/Scenes/MainButtons/Profiles.unity
     guid: 6ec41327a5fd58249833adca213074e8
   - enabled: 1
     path: Assets/Scenes/MainButtons/Start.unity
