@@ -8,10 +8,13 @@ public class DialogueManager : MonoBehaviour
     // Reference to the second dialogue box panel (appears when "No" is pressed)
     public GameObject noDialogueBox;
 
+    // Reference to the SceneLoader script
+    public SceneLoader sceneLoader;
+
     void Start()
     {
-        // Show the first dialogue box when the game starts
-        ShowDialogueBox();
+        // Do not show the dialogue box automatically anymore
+        // Remove ShowDialogueBox() here
     }
 
     // Show the first dialogue box
@@ -31,7 +34,12 @@ public class DialogueManager : MonoBehaviour
     {
         Debug.Log("Yes button pressed.");
         HideDialogueBox();
-        // Add any actions for the "Yes" button here
+
+        // Call the SceneLoader to load a new scene by index
+        if (sceneLoader != null)
+        {
+            sceneLoader.Sceneloader(2);  // Replace 1 with the actual index of the scene you want to load
+        }
     }
 
     // Function to handle the "No" button (show second dialogue box)
@@ -55,6 +63,14 @@ public class DialogueManager : MonoBehaviour
         {
             noDialogueBox.SetActive(false); // Hide the second dialogue box
         }
-        // Add any actions for the "Okay" button here
+    }
+
+    // Function to open the first dialogue box (to be called by the button)
+    public void OpenDialogueBox()
+    {
+        if (dialogueBox != null)
+        {
+            dialogueBox.SetActive(true);
+        }
     }
 }
