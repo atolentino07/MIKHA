@@ -26,7 +26,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 1
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 5e9716d78a1cb4047844a77418b57c78, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5172641432898163064
       m_GuidHigh: 10355890841445392284
@@ -36,17 +36,17 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 2
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 55c677a27d7bf2948b86d70a7e01692d, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5145929375157414358
       m_GuidHigh: 10785972394460867202
     m_SerializedTextureGuid:
       m_GuidLow: 17060792640730302132
       m_GuidHigh: 13631484672615259593
-    m_Size: {x: 0, y: 0}
+    m_Size: {x: 0.0635, y: 0.09071429}
     m_SpecifySize: 0
     m_Name: 3
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: c95406b41c83ecc4c91d6a4816c32cbd, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4895398391266496083
       m_GuidHigh: 697222839955041941
@@ -56,7 +56,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 4
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 396ed8cede8698c47bda5bb667f01dd0, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5077457733043613069
       m_GuidHigh: 7128569606284359070
@@ -66,7 +66,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 5
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 02fc81647d6afd047bf610be36dec14d, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5588415018879087665
       m_GuidHigh: 6771613472799508880
@@ -76,7 +76,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 6
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 0b59fd32681864e42a433f2917131e8b, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5525914360001027926
       m_GuidHigh: 11146942717248742533
@@ -86,7 +86,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 7
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 46def071511490649b8196ec176f97fd, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5722476129235372381
       m_GuidHigh: 9665432119007137953
@@ -96,7 +96,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 8
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 0a72a67def445234599ff72641eff8ab, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4665407340073019477
       m_GuidHigh: 3357857312467248001
@@ -106,7 +106,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 9
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: cbcbd429130afb64eb35722cf73635cd, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5534840995603273389
       m_GuidHigh: 10105527135689648258
@@ -116,7 +116,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 10
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 853531e2686a09047ae1213abaf4a919, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5407474741763830382
       m_GuidHigh: 14484320330240191410
@@ -126,7 +126,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 11
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 181ed16f0bc0fb2448f568d28498720f, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4851441668633609836
       m_GuidHigh: 4074150366244008345
@@ -136,7 +136,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 12
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 340fabcc1204d464e8a07f47edb0d92a, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5228688787164900967
       m_GuidHigh: 684300534971760771
@@ -146,7 +146,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 13
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: a63f45d1c6083294d9869959c644fc53, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4794559012892162666
       m_GuidHigh: 18437913987276485565
@@ -156,7 +156,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 14
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: ddbf670a7d994924c99a4b4e9030fdb8, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4660036937735744582
       m_GuidHigh: 14189413427069196456
@@ -166,7 +166,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 15
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 037e2f441d9767747be082df5bb127c0, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5283388935305541836
       m_GuidHigh: 12730847725185408433
@@ -176,7 +176,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 16
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 1d6aec7d8c2e2764b923f550a52ceda9, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4676893321546188401
       m_GuidHigh: 7150138436532962977
@@ -186,7 +186,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 17
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: af12a50d274dd7346800a15267911e8f, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4892521276829910721
       m_GuidHigh: 10866564841590176185
@@ -196,7 +196,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 18
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: b3e76cb5084350c449e58b830f2de793, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5131920655684366193
       m_GuidHigh: 3641359683235035311
@@ -206,7 +206,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 19
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 7f2fd4ab47d3695428668418a94f4e62, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4633261528489175303
       m_GuidHigh: 15892621653011039660
@@ -216,7 +216,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: 20
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 80db3cdfc42639144a854ba7e7eaf0ab, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5470911513853097467
       m_GuidHigh: 4392762881634020248
@@ -226,7 +226,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: E
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 7cbed90cccd714940b351c9282be277a, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4844933398812307191
       m_GuidHigh: 4749143502584833173
@@ -236,7 +236,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: F
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: e260910918d1e0c45b88ff8b0f1e6c75, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5732293139388846562
       m_GuidHigh: 7823702101709505202
@@ -246,7 +246,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: G
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 6ca297041e653664a85eb2583f29fa15, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4712945795350914428
       m_GuidHigh: 292836581549960598
@@ -256,7 +256,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: H
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 21bb840b61aec874ca4deeae46cb176a, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5502196338359561534
       m_GuidHigh: 3366015668886596262
@@ -266,7 +266,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: I
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 3ea3e02005cca434796ebe9422ea9754, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4839439490269497785
       m_GuidHigh: 5687490952075362981
@@ -276,7 +276,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: J
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 58ab0bb11ec9b6040b994fae62d1ba2a, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5439813924298751833
       m_GuidHigh: 357084873557584295
@@ -296,7 +296,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: L
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: bb3b3a48d61059843a2ecbd0a2195035, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5012096286080298921
       m_GuidHigh: 14827093438878611093
@@ -306,7 +306,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: M
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: fd6dce5c5c63000428876107d07d7b85, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5387120953505222174
       m_GuidHigh: 9324135252585449608
@@ -316,7 +316,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: N
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 657a0ebc42e732148b03551d83bc9a87, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4733283945403241781
       m_GuidHigh: 12677169690431540645
@@ -326,7 +326,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: O
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 69caee059f7dd0345b92e8b6f66e1ab2, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5013364791632011506
       m_GuidHigh: 6580586385019537544
@@ -336,7 +336,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: P
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 772e6d70eefbfd74e8da950f5e081018, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4950096681214112570
       m_GuidHigh: 13691214960163752891
@@ -346,7 +346,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Q
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: f3cf0edc2de83e142a56959330de2621, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5303139651566657498
       m_GuidHigh: 16810227999365993906
@@ -356,7 +356,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: R
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: c1e090c7bd92b6f4ea7a1763f0c2ea65, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5078339699589042955
       m_GuidHigh: 13357276556714589114
@@ -366,7 +366,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: S
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: a0092f161a12b344b9bdc509e05d41e2, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5214593022425517889
       m_GuidHigh: 17998621867801664679
@@ -386,7 +386,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: U
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: cd33f216231047b4cbae20ea4d0f43dc, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5561519220694859654
       m_GuidHigh: 15118257766187019399
@@ -396,7 +396,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: V
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: c0444e009b94d724a87b00fbce3c4407, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4690655235864848381
       m_GuidHigh: 7983056513516705710
@@ -406,7 +406,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: W
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 52f0a5d142980274689951babf8abff7, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4888372354568471688
       m_GuidHigh: 11450167522839706038
@@ -416,7 +416,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: X
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 33f3444cd5cc48a4ba8a15f616f99d4b, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5390923591772813398
       m_GuidHigh: 14876962594369720470
@@ -426,7 +426,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Y
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 472d0f3e4197c6e41b2a6fe2fe0fa065, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4675404411327008182
       m_GuidHigh: 16761803091838702729
@@ -436,7 +436,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Z
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: fd454a36101c2514f8b71a4bd7886646, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5670357128322956247
       m_GuidHigh: 2576895441810184856
@@ -446,7 +446,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Bear
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 21990ddff86d62842a7aba0cba4ebea6, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5333442282533122722
       m_GuidHigh: 6291923071244147612
@@ -456,7 +456,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Bee
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 60527a9a513ba67419945ddde7269e93, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5313126063671502603
       m_GuidHigh: 8230043552916395452
@@ -466,7 +466,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Bird
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 4b1eb227b1a955e488f04aff47549afd, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4730219794871792265
       m_GuidHigh: 10304558534624044217
@@ -476,7 +476,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Butterfly
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: ffe90b3381b796d469b86c85a467cdf0, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5127069238125549689
       m_GuidHigh: 16626107388830061492
@@ -486,7 +486,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Cat
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 60cf81c4a4363924fb446a80a41356e1, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5342097821867883343
       m_GuidHigh: 3869046918748078765
@@ -496,7 +496,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Chicken
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: e172c7d6c019f01449c1fe32d24588a7, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5519135156728282628
       m_GuidHigh: 1456540532274157991
@@ -506,7 +506,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Cow
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 91ea6d5de6c59474383d6dbe5de11080, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4922636689738333501
       m_GuidHigh: 13439544945041466047
@@ -516,7 +516,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Crab
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: ae4b2d8795d258a43b84c9ce2818ee2b, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4926926031282841815
       m_GuidHigh: 2193781129425597359
@@ -526,7 +526,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Deer
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 242d261f726a487458d34957a545fc5a, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5440281006497923661
       m_GuidHigh: 16796847731335979952
@@ -536,7 +536,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Dog
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 04ba0e50d7eb2344f80c66008abe357f, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5279770740608215428
       m_GuidHigh: 1756546038957500836
@@ -546,7 +546,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Duck
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: d9c449746550dc142b6fbd72cddc7491, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5481274867047866245
       m_GuidHigh: 17103458013780632752
@@ -556,7 +556,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Elephant
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: a218af4680c5bdb4a9521a99f5c3d9ca, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5087920430912364132
       m_GuidHigh: 1017771620657843078
@@ -566,7 +566,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Fish
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: ee7fbf5071f787b4494fed0623b3f058, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4901681343907678834
       m_GuidHigh: 10996136050996639901
@@ -576,7 +576,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Horse
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 36f5552461af40548b60a6b4077d1161, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4777710979936599337
       m_GuidHigh: 15337509131141759675
@@ -586,7 +586,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Ladybug
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: bf36dd67dc6662c4da86428e04e471d0, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5587723396138301910
       m_GuidHigh: 13832403833032243863
@@ -596,7 +596,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Lizard
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: cad95edf3ef4d714ca1748abdce231b4, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4881796150476011860
       m_GuidHigh: 8797133106561097650
@@ -606,17 +606,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Monkey
-    m_Texture: {fileID: 0}
-  - m_SerializedGuid:
-      m_GuidLow: 5511069111530201748
-      m_GuidHigh: 9261233080142565505
-    m_SerializedTextureGuid:
-      m_GuidLow: 10210912022154638055
-      m_GuidHigh: 5684509827679896360
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
-    m_Name: Mouse
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 40ad5d6fb4dc30b40aadae121d69c71b, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4719737342268415068
       m_GuidHigh: 17237767393319941547
@@ -626,7 +616,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Orca
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 0862028162584644c957ff6fef994f06, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4749210852392648169
       m_GuidHigh: 13054753727431586228
@@ -636,7 +626,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Pig
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 5546d2851a48b5743b2e8ce6f1fd9fee, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5337947276263963316
       m_GuidHigh: 15158389310629295541
@@ -646,7 +636,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Rabbit
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 439baf6491f70ad4c91a9ee8b0a1e254, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5480555504692420966
       m_GuidHigh: 3768718325298745510
@@ -656,7 +646,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Raven
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 4b7bece3b381193408adc102b274b968, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5717786736849590744
       m_GuidHigh: 43555177572696496
@@ -666,7 +656,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Seal
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 5585318def1923140a5047da76ed8a98, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4957860596973253121
       m_GuidHigh: 16246444900037024134
@@ -676,7 +666,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Shark
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 9fb32ff7df92bd243911f3dae4f15581, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4831038789543651091
       m_GuidHigh: 8378692329744705155
@@ -686,7 +676,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Sheep
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 4a331ad090b921c4f81c9b00c802ce82, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5229311921941688259
       m_GuidHigh: 17726056411014720669
@@ -716,7 +706,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: Tiger
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: eff150695c152e74ab127a05b58884ff, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4809268364285177792
       m_GuidHigh: 15445591759750960269
@@ -726,7 +716,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: a
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: df8fb397eea4c874ea2b86dfd232ad21, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4729340955282108339
       m_GuidHigh: 10841981175847399073
@@ -736,7 +726,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: B
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 77e77158fe73f2143ba6711c41892727, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5532519021905864137
       m_GuidHigh: 1771984491803310506
@@ -746,7 +736,7 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: C
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 6e414833ea76f4a4bbfad41fbb243a1d, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 5407248419366622035
       m_GuidHigh: 3659256630103939768
@@ -756,4 +746,4 @@ MonoBehaviour:
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
     m_Name: D
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 914c51ca400e45e4e9623757aab4b70a, type: 3}
