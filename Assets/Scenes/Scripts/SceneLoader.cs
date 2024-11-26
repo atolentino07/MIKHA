@@ -1,88 +1,39 @@
-using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.XR.ARFoundation;
 
 public class SceneLoader : MonoBehaviour
 {
-    [SerializeField] private float transitionDelay = 0f;
-    [SerializeField] private Animator transitionAnimator;
+    public ARSession arSession; // Assign the ARSession object in the Inspector.
+    public string arSceneName = "ARScene"; // Name of your AR scene (customize this as needed).
 
+    // Load a scene by name
     public void LoadScene(int sceneIndex)
     {
-        if (sceneIndex < 0 || sceneIndex >= SceneManager.sceneCountInBuildSettings)
+        // Get the name of the scene being loaded
+        string sceneName = SceneManager.GetSceneByBuildIndex(sceneIndex).name;
+
+        // If the target scene is the AR scene, reset the AR session
+        if (sceneName == arSceneName)
         {
-            Debug.LogError($"Scene index {sceneIndex} is out of range!");
-            return;
+            RestartARSession();
         }
 
-        StartCoroutine(LoadSceneCoroutine(sceneIndex));
-    }
-
-    public void LoadSceneByName(string sceneName)
-    {
-        if (string.IsNullOrEmpty(sceneName) || !SceneExists(sceneName))
-        {
-            Debug.LogError($"Scene name '{sceneName}' does not exist!");
-            return;
-        }
-
-        StartCoroutine(LoadSceneByNameCoroutine(sceneName));
-    }
-
-    private IEnumerator LoadSceneCoroutine(int sceneIndex)
-    {
-        if (transitionAnimator != null)
-        {
-            transitionAnimator.SetTrigger("Start");
-        }
-
-        if (transitionDelay > 0f)
-        {
-            yield return new WaitForSeconds(transitionDelay);
-        }
-
+        // Load the scene by index
         SceneManager.LoadScene(sceneIndex);
     }
 
-    private IEnumerator LoadSceneByNameCoroutine(string sceneName)
+    // Method to reset/restart the AR session
+    private void RestartARSession()
     {
-        if (transitionAnimator != null)
+        if (arSession != null)
         {
-            transitionAnimator.SetTrigger("Start");
+            Debug.Log("Restarting AR session...");
+            arSession.Reset();
         }
-
-        if (transitionDelay > 0f)
+        else
         {
-            yield return new WaitForSeconds(transitionDelay);
+            Debug.LogWarning("ARSession is not assigned. Ensure it is set in the Inspector.");
         }
-
-        SceneManager.LoadScene(sceneName);
     }
-
-    private bool SceneExists(string sceneName)
-    {
-        for (int i = 0; i < SceneManager.sceneCountInBuildSettings; i++)
-        {
-            string path = SceneUtility.GetScenePathByBuildIndex(i);
-            string name = System.IO.Path.GetFileNameWithoutExtension(path);
-            if (name == sceneName)
-            {
-                return true;
-            }
-        }
-        return false;
-    }
-
-    public void ReloadCurrentScene()
-    {
-        int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-        SceneManager.LoadScene(currentSceneIndex);
-    }
-
-    public void QuitApplication()
-    {
-        Debug.Log("Quitting Application...");
-        Application.Quit();
-    }
-    
 }

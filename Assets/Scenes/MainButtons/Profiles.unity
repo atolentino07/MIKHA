@@ -1159,8 +1159,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: beecb5561e3133348be5426c2e407a85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  transitionDelay: 0
-  transitionAnimator: {fileID: 0}
+  arSession: {fileID: 0}
+  arSceneName: ARScene
 --- !u!4 &474404867
 Transform:
   m_ObjectHideFlags: 0
@@ -3595,7 +3595,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 440, y: 679}
+  m_AnchoredPosition: {x: 415, y: 694}
   m_SizeDelta: {x: 77.5764, y: 67.7773}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1904995397
