@@ -978,7 +978,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1823082824}
         m_TargetAssemblyTypeName: SceneLoader, Assembly-CSharp
-        m_MethodName: Sceneloader
+        m_MethodName: LoadScene
         m_Mode: 3
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -988,9 +988,9 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 671435004}
+      - m_Target: {fileID: 671435005}
         m_TargetAssemblyTypeName: SoundManager, Assembly-CSharp
-        m_MethodName: 
+        m_MethodName: PlaySound
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1020,7 +1020,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b18a3bdd34b942d46bfa84300dcda693, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 08a0bdf3864f2354dac65f28d1586acb, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -1336,6 +1336,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: beecb5561e3133348be5426c2e407a85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  transitionDelay: 0
+  transitionAnimator: {fileID: 0}
 --- !u!4 &1823082825
 Transform:
   m_ObjectHideFlags: 0

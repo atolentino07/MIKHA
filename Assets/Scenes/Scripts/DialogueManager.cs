@@ -38,7 +38,7 @@ public class DialogueManager : MonoBehaviour
         // Call the SceneLoader to load a new scene by index
         if (sceneLoader != null)
         {
-            sceneLoader.Sceneloader(2);  // Replace 1 with the actual index of the scene you want to load
+            sceneLoader.LoadScene(2);  // Replace 1 with the actual index of the scene you want to load
         }
     }
 
