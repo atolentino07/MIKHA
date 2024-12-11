@@ -828,7 +828,7 @@ MonoBehaviour:
   - {fileID: 8614789584570704523, guid: c0648bea2aeec194d8c3ceca5c583b12, type: 3}
   - {fileID: 51434311633386089, guid: af21e5931f9597d499a2d505ac65c263, type: 3}
   - {fileID: 8413039718833995529, guid: d5702313893a93d43bd94d7fda801f1a, type: 3}
-  - {fileID: 2433538425006743278, guid: 7d19890805cb1dd4cbf85cede3f2c095, type: 3}
+  - {fileID: 3941578856615015008, guid: 98b64ea3f6ba8f645b2dc47ae1512f6e, type: 3}
   - {fileID: 6310588557469037734, guid: f5c5066a255b60e49900e34bdf340f31, type: 3}
   - {fileID: 2614455127640247495, guid: 813c576f469da1d4cb97c6eed05db833, type: 3}
   - {fileID: 3706409895468117441, guid: a0416e36af88e2b4fa7e116212f70667, type: 3}
@@ -1159,7 +1159,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!64 &1285368286
 MeshCollider:
   m_ObjectHideFlags: 0
@@ -1336,8 +1336,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: beecb5561e3133348be5426c2e407a85, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  transitionDelay: 0
-  transitionAnimator: {fileID: 0}
+  arSession: {fileID: 0}
+  arSceneName: ARScene
 --- !u!4 &1823082825
 Transform:
   m_ObjectHideFlags: 0
